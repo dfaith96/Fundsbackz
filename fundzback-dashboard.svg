@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="img" aria-labelledby="title desc">
+  <title id="title">Fundzback savings findings dashboard</title>
+  <desc id="desc">An illustration of a finance dashboard showing an unused subscription, duplicate charge, and potential refund with a total amount recoverable.</desc>
+  <rect width="760" height="500" rx="28" fill="#174e38"/>
+  <circle cx="690" cy="48" r="110" fill="#23845a" opacity=".42"/>
+  <rect x="44" y="48" width="672" height="404" rx="16" fill="#fff"/>
+  <rect x="44" y="48" width="672" height="66" rx="16" fill="#f1f8ef"/>
+  <circle cx="78" cy="81" r="8" fill="#c9fa76"/><text x="101" y="87" fill="#18291f" font-family="Arial" font-size="20" font-weight="700">Your money findings</text>
+  <text x="563" y="86" fill="#23845a" font-family="Arial" font-size="14" font-weight="700">$147.49 FOUND</text>
+  <g font-family="Arial"><rect x="72" y="143" width="616" height="76" rx="9" fill="#fbfcf9"/><circle cx="103" cy="181" r="16" fill="#e2f6dd"/><path d="M97 181h12M103 175v12" stroke="#23845a" stroke-width="3" stroke-linecap="round"/><text x="136" y="174" fill="#18291f" font-size="17" font-weight="700">Unused streaming subscription</text><text x="136" y="198" fill="#6a8073" font-size="14">No activity detected in 4 months</text><text x="604" y="185" fill="#c65648" font-size="17" font-weight="700">$18.99/mo</text>
+  <rect x="72" y="234" width="616" height="76" rx="9" fill="#fbfcf9"/><circle cx="103" cy="272" r="16" fill="#fff0d9"/><path d="M96 272h14" stroke="#be7b20" stroke-width="3" stroke-linecap="round"/><text x="136" y="265" fill="#18291f" font-size="17" font-weight="700">Possible duplicate charge</text><text x="136" y="289" fill="#6a8073" font-size="14">Two similar charges from the same merchant</text><text x="625" y="276" fill="#c65648" font-size="17" font-weight="700">$42</text>
+  <rect x="72" y="325" width="616" height="76" rx="9" fill="#e9f8e9"/><circle cx="103" cy="363" r="16" fill="#c9fa76"/><path d="M96 363l5 5 10-12" fill="none" stroke="#174e38" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="356" fill="#18291f" font-size="17" font-weight="700">Potential refund available</text><text x="136" y="380" fill="#6a8073" font-size="14">Eligible purchase is still inside its return window</text><text x="610" y="367" fill="#23845a" font-size="17" font-weight="700">$86.50</text></g>
+</svg>
